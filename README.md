@@ -1,4 +1,6 @@
-### Hi there 👋
+# ❗❗❗ Notice ❗❗❗
+
+### Repositories from the original [deepmipt](https://github.com/deepmipt) organization have been moved to [deeppavlov](https://github.com/deeppavlov) organization.
 
 <!--
 **deepmipt/deepmipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
